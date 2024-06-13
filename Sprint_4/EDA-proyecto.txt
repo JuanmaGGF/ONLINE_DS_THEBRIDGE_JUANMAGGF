@@ -1,0 +1,11 @@
+1. Un sistema de cotizacion de ofertas basado en semejanza de seguidores solares.
+2. Un detector de tornados
+3. Un sistema que me diga con antelación cuando voy a tener una avería.
+4. Un sistema que me prepare la lista de la compra
+5. Un sistema que prediga cuando va a haber nubes
+
+1. Datos de tornados en el mundo
+2. Datos de averías en un tipo de electrodoméstico
+3. Datos de velocidades de viento mundiales
+4. Datos de cantidad nevada y duración en el suelo mundial.
+5. Datos de granizadas y tamaño del granizo.
